@@ -18,6 +18,7 @@ Software:
 The following software was used in the paper: Python, Jupyter, Spyder, Tensorflow, Tensorflow_io, Keras, Scikit learn, Scikit image, Numpy, Matplotlib, Scipy, Tifffile, Os, Pathlib, Time, Datetime, IPython, Xlsxwriter, ImageJ, Fiji, ChimeraX, https://www.tensorflow.org/tutorials/generative/pix2pix and https://github.com/embl-bio-it/image-analysis-with-python/blob/master/session-3to5/image_analysis_tutorial_solutions.ipynb.
 Pearson correlation coefficients were calculated with Scipy, Matthews correlation coefficients were calculated with Scikit learn, structural similarity index (SSIM) and mean squared error (SME) were calculated with Scikit image. The algorithms for the calculation of Pearson correlation coefficients, Matthews correlation coefficients, structural similarity index (SSIM) and mean squared error (SME) will be provided upon request.
 The following software version were used in this repository:
+
 Stitch algorithm:
 
 Python (version: 3.7.4), IPython (version: 7.8.0), Spyder (version: 3.3.6), Numpy (version: 1.21.6), Tifffile (version: 2021.11.2)
