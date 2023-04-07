@@ -9,6 +9,8 @@ Georgiev, T., Zapiec, B., Forderer, M., Fink, R. H. A. & Vogel, M. Colocalizatio
 
 I provide here a file, img_1_test.tif, with SHG measurements corresponding to Exp_1_SHG.tif (see SHTtoSparks_part_1). This file can be used as input of the image translation algorithm and will output, when the checkpoint is restored, the predicted Ca2+ signals as 256x256 pixel images. These 256x256 pixel images can be stitched to Exp_1_P.tif (512x512 pixel) with another provided algorithm.
 
+I provide 3 example images for the training, test and validation data set.
+
 Software:
 
 The following software was used in the paper: Python, Jupyter, Spyder, Tensorflow, Tensorflow_io, Keras, Scikit learn, Scikit image, Numpy, Matplotlib, Scipy, Tifffile, Os, Pathlib, Time, Datetime, IPython, Xlsxwriter, ImageJ, Fiji, ChimeraX, https://www.tensorflow.org/tutorials/generative/pix2pix and https://github.com/embl-bio-it/image-analysis-with-python/blob/master/session-3to5/image_analysis_tutorial_solutions.ipynb.
@@ -27,7 +29,7 @@ Python (version: 3.9.13), Tensorflow (version: 2.8.0), Tensorflow_io (version: 0
 Algorithms:
 
 Image stitch algorithm
-Image translation algorithm: The image translation algorithm was taken from https://www.tensorflow.org/tutorials/generative/pix2pix. Cells with modified code are marked in Jupyter.
+Image translation algorithm: The image translation algorithm was taken from https://www.tensorflow.org/tutorials/generative/pix2pix with minor modifications. Cells with modified code are marked in SHGtoSparks.ipynb with change. New comments are marked as new and cell 30 is completely new.
 
 Hardware:
 
