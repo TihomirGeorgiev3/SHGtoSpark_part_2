@@ -11,6 +11,8 @@ I provide here a file, img_1_test.tif, with SHG measurements corresponding to Ex
 
 I provide 3 example images for the training, test and validation data set.
 
+Two files for the used checkpoint are provided: ckpt-35.data-00000-of-00001 and ckpt-35.index.
+
 Software:
 
 The following software was used in the paper: Python, Jupyter, Spyder, Tensorflow, Tensorflow_io, Keras, Scikit learn, Scikit image, Numpy, Matplotlib, Scipy, Tifffile, Os, Pathlib, Time, Datetime, IPython, Xlsxwriter, ImageJ, Fiji, ChimeraX, https://www.tensorflow.org/tutorials/generative/pix2pix and https://github.com/embl-bio-it/image-analysis-with-python/blob/master/session-3to5/image_analysis_tutorial_solutions.ipynb.
