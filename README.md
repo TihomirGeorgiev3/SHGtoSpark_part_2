@@ -7,7 +7,7 @@ The raw data set consists of image pairs of second harmonic generation (SHG) and
 
 Georgiev, T., Zapiec, B., Forderer, M., Fink, R. H. A. & Vogel, M. Colocalization properties of elementary Ca(2+) release signals with structures specific to the contractile filaments and the tubular system of intact mouse skeletal muscle fibers. J Struct Biol 192, 366-375 (2015). https://doi.org:10.1016/j.jsb.2015.09.018
 
-I provide here a file, img_1_test.tif, with SHG measurements corresponding to Exp_1_SHG.tif (see SHTtoSparks_part_1). This file can be used as input of the image translation algorithm and will output, when the checkpoint is restored, the predicted Ca2+ signals as 256x256 pixel images. These 256x256 pixel images can be stitched to Exp_1_P.tif (512x512 pixel) with another provided algorithm.
+I provide here a file, img_1_test.tif, with SHG measurements corresponding to Exp_1_SHG.tif (see SHTtoSparks_part_1). This file can be used as input of the image translation algorithm (SHGtoSparks.ipynb) and will output, when the checkpoint is restored, the predicted Ca2+ signals as 256x256 pixel images. These 256x256 pixel images can be stitched to Exp_1_P.tif (512x512 pixel) with another provided algorithm.
 
 I provide 3 example images for the training, test and validation data set.
 
