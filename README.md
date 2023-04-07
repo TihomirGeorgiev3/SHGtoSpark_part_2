@@ -31,6 +31,7 @@ Python (version: 3.9.13), Tensorflow (version: 2.8.0), Tensorflow_io (version: 0
 Algorithms:
 
 Image stitch algorithm
+
 Image translation algorithm: The image translation algorithm was taken from https://www.tensorflow.org/tutorials/generative/pix2pix with minor modifications. Cells with modified code are marked in SHGtoSparks.ipynb with change. New comments are marked as new and cell 30 is completely new.
 
 Hardware:
