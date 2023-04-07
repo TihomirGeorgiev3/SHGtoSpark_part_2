@@ -1,4 +1,9 @@
-                                 Apache License
+Content of the cells in SHGtoSparks.ipynb was taken from https://www.tensorflow.org/tutorials/generative/pix2pix 
+with minor modifications, except cell 30 that is completely new. Modified cells are marked with "changes:" in 
+SHGtoSparks.ipynb and new comments are marked as "new:".
+                                
+                                
+                                Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
 
