@@ -33,7 +33,7 @@ Python (version: 3.9.13), Tensorflow (version: 2.8.0), Tensorflow_io (version: 0
 
 Algorithms:
 
-Image stitch algorithm
+Image stitch algorithm (Strich_images_256_to_512.py)
 
 Image translation algorithm: The image translation algorithm (SHGtoSparks.ipynb) was taken from https://www.tensorflow.org/tutorials/generative/pix2pix with minor modifications and is based on the publication: Isola, P., Zhu, J.-., Yan, Zhou, T. & Efros, A. A. Image-to-Image Translation with Conditional Adversarial Networks. CoRR abs/1611.07004 (2016). Cells with modified code are marked in SHGtoSparks.ipynb with change. New comments are marked as new and cell 30 is completely new.
 
